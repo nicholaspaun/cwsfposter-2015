@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="right.svg">
+   sodipodi:docname="right-tricked.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -25,8 +25,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.085741873"
-     inkscape:cx="2223.1237"
-     inkscape:cy="3653.8558"
+     inkscape:cx="1790.2781"
+     inkscape:cy="3241.5096"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -85,20 +85,28 @@
        id="guide17467" />
     <sodipodi:guide
        orientation="1,0"
-       position="1171.0633,4339.9442"
+       position="944.27289,4205.9317"
        id="guide17481" />
     <sodipodi:guide
        orientation="1,0"
-       position="2250.9422,4140"
+       position="2024.62,4234.7959"
        id="guide17483" />
     <sodipodi:guide
        orientation="1,0"
-       position="1256.6789,3592.1772"
+       position="1034.9891,3558.5481"
        id="guide17485" />
     <sodipodi:guide
        orientation="1,0"
-       position="2347.1612,4283.2048"
+       position="2115.3362,4228.6107"
        id="guide17487" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1257.656,3962.6474"
+       id="guide17508" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="1463.8292,2519.4355"
+       id="guide17535" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">
@@ -108,7 +116,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -159,5 +167,41 @@
          y="-3244.2402"
          style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace"
          id="tspan3028" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006400;fill-opacity:1;stroke:none;font-family:Sans"
+       x="835.19141"
+       y="-2964.2852"
+       id="text17510"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17512"
+         x="835.19141"
+         y="-2964.2852"
+         style="font-size:117px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#006400;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Balancing Chemical Equations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006400;fill-opacity:1;stroke:none;font-family:Sans"
+       x="616.56049"
+       y="-1523.0732"
+       id="text17510-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17512-5"
+         x="616.56049"
+         y="-1523.0732"
+         style="font-size:117px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#006400;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Performing Stoichiometric Calculations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#006400;fill-opacity:1;stroke:none;font-family:Sans"
+       x="1009.4931"
+       y="-259.23242"
+       id="text17510-5-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan17512-5-0"
+         x="1009.4931"
+         y="-259.23242"
+         style="font-size:117px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;fill:#006400;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Reaction Type Analysis</tspan></text>
   </g>
 </svg>
