@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="right-787.svg">
+   sodipodi:docname="right-797.svg">
   <defs
      id="defs4">
     <clipPath
@@ -10709,9 +10709,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28284272"
-     inkscape:cx="1381.0999"
-     inkscape:cy="3037.0783"
+     inkscape:zoom="0.40000001"
+     inkscape:cx="1735.4853"
+     inkscape:cy="3120.7746"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10721,7 +10721,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="in"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -10946,8 +10946,8 @@
        height="1017.024"
        width="568.86401" />
     <image
-       y="-149.23247"
-       x="1034.9891"
+       y="120.14246"
+       x="1035.2607"
        id="image113040"
        xlink:href="file:///home/np/sf2015/materials/screen-rta.png"
        height="482.78378"
@@ -11015,27 +11015,27 @@
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1249.6487"
+       x="1240.5886"
        y="-1532.5116"
        id="text124719-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan124721-5"
-         x="1249.6487"
+         x="1240.5886"
          y="-1532.5116"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Solving Stoichiometry Problems</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Solving a Stoichiometry Problem</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2147.0181"
+       x="2191.5586"
        y="-1534.3447"
        id="text124744"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan124746"
-         x="2147.0181"
+         x="2191.5586"
          y="-1534.3447"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">An Example of a Complex Stoichiometry Problem</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Performing Unit Conversion using Chemlogic</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -11047,7 +11047,7 @@
          id="tspan124750"
          x="2152.7534"
          y="-183.55626"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Using the Android App to Complete an Equation</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Completing an Equation Using the Android App</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -14159,8 +14159,8 @@
       </g>
     </g>
     <image
-       y="-1499.0659"
-       x="1035.5323"
+       y="-1229.2166"
+       x="1035.2607"
        id="image113040-3"
        xlink:href="file:///home/np/sf2015/materials/screen-stoich-1.png"
        height="482.78378"
@@ -14169,13 +14169,14 @@
        y="-1498.8892"
        x="2114.6201"
        id="image113040-3-3"
-       xlink:href="file:///home/np/sf2015/materials/screen-rta.png"
+       xlink:href="file:///home/np/sf2015/materials/screen-stoich-2.png"
        height="482.78378"
        width="989.08765"
-       clip-path="url(#clipPath19322)" />
+       clip-path="url(#clipPath19322)"
+       transform="translate(0,271.68881)" />
     <g
        id="page1"
-       transform="matrix(1.25,0,0,1.25,971.615,-2869.6044)">
+       transform="matrix(1.25,0,0,1.25,971.615,-2617.0021)">
       <use
          id="use133983"
          y="39.9501"

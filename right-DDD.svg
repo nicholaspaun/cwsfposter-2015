@@ -15,7 +15,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.3.1 r9886"
-   sodipodi:docname="right-787.svg">
+   sodipodi:docname="right-DDD.svg">
   <defs
      id="defs4">
     <clipPath
@@ -10701,6 +10701,29 @@
          x="2115.3362"
          y="-1499.0659" />
     </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15768">
+      <rect
+         style="opacity:0;fill:#006400"
+         id="rect15770"
+         width="987.86328"
+         height="481.61063"
+         x="1036.7568"
+         y="120.0453"
+         ry="0" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath15776">
+      <rect
+         style="opacity:0;fill:#006400"
+         id="rect15778"
+         width="539.63391"
+         height="961.875"
+         x="2319.1162"
+         y="-118.2628" />
+    </clipPath>
   </defs>
   <sodipodi:namedview
      id="base"
@@ -10710,8 +10733,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.28284272"
-     inkscape:cx="1381.0999"
-     inkscape:cy="3037.0783"
+     inkscape:cx="2276.0921"
+     inkscape:cy="537.38255"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10890,7 +10913,7 @@
          x="1621.4766"
          y="-3424.2402"
          id="tspan3022"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace">Draft 0001</tspan><tspan
+         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace">Draft 0010</tspan><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-3244.2402"
@@ -10939,19 +10962,20 @@
        id="page1-6-1"
        transform="matrix(1.3530402,0,0,1.3530402,213.532,-2882.8147)" />
     <image
-       y="-2835.9434"
-       x="2303.2361"
+       y="-2815.6956"
+       x="2317.4578"
        id="image117871"
        xlink:href="file:///home/np/sf2015/materials/screenshot-app-2.png"
-       height="1017.024"
-       width="568.86401" />
+       height="966.17279"
+       width="540.42084" />
     <image
-       y="-149.23247"
-       x="1034.9891"
+       y="120.14246"
+       x="1035.2607"
        id="image113040"
        xlink:href="file:///home/np/sf2015/materials/screen-rta.png"
        height="482.78378"
-       width="989.08765" />
+       width="989.08765"
+       clip-path="url(#clipPath15768)" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -10963,7 +10987,7 @@
          id="tspan117916"
          x="2134.8826"
          y="-2880.2405"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Balancing an Equation Using the New Android App</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Balancing an Equation Using the New Android App</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -10978,7 +11002,7 @@
          style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium" /></text>
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:CMU Serif Extra Bold"
        x="235.5802"
        y="-2880.2405"
        id="text117914-6"
@@ -10987,7 +11011,7 @@
          id="tspan117916-5"
          x="235.5802"
          y="-2880.2405"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Procedure for Balancing an Equation</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Procedure for Balancing an Equation</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -10999,7 +11023,7 @@
          id="tspan124703"
          x="1078.619"
          y="-2880.2405"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">The Abstract Syntax Tree for a Chemical Equation</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">The Abstract Syntax Tree for a Chemical Equation</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -11011,31 +11035,31 @@
          id="tspan124721"
          x="196.8927"
          y="-1532.5116"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Procedure for Stoichiometric Calculations</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Procedure for Stoichiometric Calculations</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="1249.6487"
+       x="1240.5886"
        y="-1532.5116"
        id="text124719-8"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan124721-5"
-         x="1249.6487"
+         x="1240.5886"
          y="-1532.5116"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Solving Stoichiometry Problems</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Solving a Stoichiometry Problem</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="2147.0181"
+       x="2191.5586"
        y="-1534.3447"
        id="text124744"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan124746"
-         x="2147.0181"
+         x="2191.5586"
          y="-1534.3447"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">An Example of a Complex Stoichiometry Problem</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Performing Unit Conversion using Chemlogic</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -11047,7 +11071,7 @@
          id="tspan124750"
          x="2152.7534"
          y="-183.55626"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Using the Android App to Complete an Equation</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Completing an Equation Using the Android App</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -11059,14 +11083,15 @@
          id="tspan124754"
          x="241.03333"
          y="-182.7392"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Procedure for Completing Equations</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Procedure for Completing Equations</tspan></text>
     <image
-       y="-146.97765"
-       x="2303.2361"
+       y="-121.55208"
+       x="2317.4578"
        id="image117871-4"
        xlink:href="file:///home/np/sf2015/materials/app-rta.png"
-       height="1017.024"
-       width="568.86401" />
+       height="966.17279"
+       width="540.42084"
+       clip-path="url(#clipPath15776)" />
     <g
        transform="matrix(1.3530402,0,0,1.3530402,218.4448,-2843.3297)"
        id="g106228-4">
@@ -14159,8 +14184,8 @@
       </g>
     </g>
     <image
-       y="-1499.0659"
-       x="1035.5323"
+       y="-1229.2166"
+       x="1035.2607"
        id="image113040-3"
        xlink:href="file:///home/np/sf2015/materials/screen-stoich-1.png"
        height="482.78378"
@@ -14169,13 +14194,14 @@
        y="-1498.8892"
        x="2114.6201"
        id="image113040-3-3"
-       xlink:href="file:///home/np/sf2015/materials/screen-rta.png"
+       xlink:href="file:///home/np/sf2015/materials/screen-stoich-2.png"
        height="482.78378"
        width="989.08765"
-       clip-path="url(#clipPath19322)" />
+       clip-path="url(#clipPath19322)"
+       transform="translate(0,271.68881)" />
     <g
        id="page1"
-       transform="matrix(1.25,0,0,1.25,971.615,-2869.6044)">
+       transform="matrix(1.25,0,0,1.25,971.615,-2617.0021)">
       <use
          id="use133983"
          y="39.9501"
@@ -24794,6 +24820,38 @@
          id="tspan124750-4"
          x="974.98822"
          y="-185.89853"
-         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium">Identifying, Completing and Predicting Occurence of Reaction</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:CMU Serif Extra;-inkscape-font-specification:CMU Serif Extra Bold">Identifying, Completing and Predicting Occurence of Reaction</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="985"
+       y="1412.5001"
+       id="text12147"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3267.6378)"><tspan
+         sodipodi:role="line"
+         id="tspan12149"
+         x="985"
+         y="1412.5001" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:bold;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans Bold"
+       x="2440"
+       y="3847.5"
+       id="text13426"
+       sodipodi:linespacing="125%"
+       transform="translate(0,-3267.6378)"><tspan
+         sodipodi:role="line"
+         id="tspan13428"
+         x="2440"
+         y="3847.5" /></text>
+    <rect
+       style="opacity:0;fill:#006400"
+       id="rect15772"
+       width="542.5"
+       height="327.5"
+       x="2320.625"
+       y="3151.25"
+       transform="translate(0,-3267.6378)" />
   </g>
 </svg>
