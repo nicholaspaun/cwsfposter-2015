@@ -4879,9 +4879,9 @@
      inkscape:pageshadow="2"
      inkscape:zoom="0.1479936"
      inkscape:cx="784.6105"
-     inkscape:cy="2181.9796"
+     inkscape:cy="2730.1587"
      inkscape:document-units="in"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g102218-8"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="850"
@@ -4889,7 +4889,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="in"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -4926,11 +4926,11 @@
        id="guide3059" />
     <sodipodi:guide
        orientation="0,1"
-       position="881.53275,1528.9457"
+       position="92.909426,1481.483"
        id="guide17463" />
     <sodipodi:guide
        orientation="0,1"
-       position="463.46166,2747.3243"
+       position="-81.08459,2745.0512"
        id="guide17467" />
     <sodipodi:guide
        orientation="1,0"
@@ -4954,24 +4954,8 @@
        id="guide17508" />
     <sodipodi:guide
        orientation="0,1"
-       position="413.29313,2646.9872"
+       position="21.96041,2655.5203"
        id="guide17535" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="944.27289,1227.2491"
-       id="guide117918" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="1510.2005,3931.0627"
-       id="guide117924" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="914.97844,3885.6721"
-       id="guide117926" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="237.70328,1180.155"
-       id="guide117928" />
     <sodipodi:guide
        orientation="0,1"
        position="2449.4303,2881.8815"
@@ -4980,14 +4964,6 @@
        orientation="0,1"
        position="944.27289,1305.5763"
        id="guide121333" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="1034.9891,3931.0627"
-       id="guide121335" />
-    <sodipodi:guide
-       orientation="0,1"
-       position="883.48418,3963.0093"
-       id="guide121337" />
   </sodipodi:namedview>
   <metadata
      id="metadata7">

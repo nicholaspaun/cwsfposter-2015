@@ -60,9 +60,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
+     inkscape:zoom="0.4"
      inkscape:cx="1424.1092"
-     inkscape:cy="4436.592"
+     inkscape:cy="636.592"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -72,7 +72,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="in"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
