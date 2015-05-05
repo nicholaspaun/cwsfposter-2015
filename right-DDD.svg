@@ -10732,9 +10732,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.28284272"
-     inkscape:cx="2276.0921"
-     inkscape:cy="537.38255"
+     inkscape:zoom="0.80000002"
+     inkscape:cx="1530.612"
+     inkscape:cy="691.818"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -10744,7 +10744,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="in"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -24845,13 +24845,5 @@
          id="tspan13428"
          x="2440"
          y="3847.5" /></text>
-    <rect
-       style="opacity:0;fill:#006400"
-       id="rect15772"
-       width="542.5"
-       height="327.5"
-       x="2320.625"
-       y="3151.25"
-       transform="translate(0,-3267.6378)" />
   </g>
 </svg>
