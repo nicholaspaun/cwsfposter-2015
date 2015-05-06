@@ -61,9 +61,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1"
-     inkscape:cx="209.40629"
-     inkscape:cy="2018.4849"
+     inkscape:zoom="0.14142136"
+     inkscape:cx="1991.8785"
+     inkscape:cy="2999.8915"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -73,7 +73,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="in"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -166,7 +166,7 @@
        y="-3268.0603" />
     <text
        xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:Sans;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        x="1621.4766"
        y="-4324.2402"
        id="text3016"
@@ -175,36 +175,36 @@
          id="tspan3018"
          x="1621.4766"
          y="-4324.2402"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace">CWSF Poster</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle">CWSF Poster</tspan><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-4144.2402"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle"
          id="tspan3030">Left Panel</tspan><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-3964.2402"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle"
          id="tspan3024" /><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-3784.2402"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle"
          id="tspan3026">Nicholas Paun</tspan><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-3604.2402"
          id="tspan3020"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle" /><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-3424.2402"
          id="tspan3022"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace">Draft 0001</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle">Draft V</tspan><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-3244.2402"
-         style="font-size:144px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:center;text-anchor:middle;font-family:Monospace;-inkscape-font-specification:Monospace"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle"
          id="tspan3028" /></text>
     <g
        transform="matrix(3.81961,0,0,-3.81961,168.3367,-847.39538)"
@@ -218,7 +218,7 @@
           <path
              inkscape:connector-curvature="0"
              d="m 18.193538,552.32734 754.003682,0 0.68178,-247.21434 -752.402,0 z"
-             style="fill:#008033;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#006400;fill-opacity:1;fill-rule:nonzero;stroke:none;opacity:0.75"
              id="path3131"
              sodipodi:nodetypes="ccccc" />
           <path
@@ -262,6 +262,14 @@
                style="fill:none;stroke:#006400;stroke-width:9.93799019;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
                id="path3149" />
           </g>
+          <rect
+             style="opacity:0.8;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.94532688;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+             id="rect16558"
+             width="562.34802"
+             height="327.51706"
+             x="114.02137"
+             y="182.20612"
+             transform="scale(1,-1)" />
         </g>
         <g
            id="g3151">
@@ -461,7 +469,7 @@
                        x="60.203529"
                        y="-550.7865">
                       <tspan
-                         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                          sodipodi:role="line"
                          id="tspan6931"
                          x="60.203529"
@@ -478,7 +486,7 @@
                     <path
                        inkscape:connector-curvature="0"
                        d="M 0,0 54.16281,27.0814"
-                       style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                       style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                        id="path6937" />
                   </g>
                   <g
@@ -490,7 +498,7 @@
                       <path
                          inkscape:connector-curvature="0"
                          d="M 0,0 -54.16281,27.0814"
-                         style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                         style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                          id="path6943" />
                     </g>
                     <g
@@ -500,7 +508,7 @@
                          transform="matrix(1,0,0,-1,78.671,455.286)"
                          id="text6947">
                         <tspan
-                           style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                           style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                            x="0 4.1701131 10.997969 16.307457 27.318613 34.905655 38.695576 45.52343 56.148403 63.735443 70.563301 75.872787 87.256943 94.084801 97.874725 101.66464 107.73331 127.99038 135.57742 142.40527 153.78943 159.85811 170.48308 178.07011 184.89798 190.20746 195.59251"
                            y="0"
                            sodipodi:role="line"
@@ -515,7 +523,7 @@
                           <path
                              inkscape:connector-curvature="0"
                              d="M 0,0 25.12953,12.56476"
-                             style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                             style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                              id="path6955" />
                         </g>
                         <g
@@ -527,7 +535,7 @@
                             <path
                                inkscape:connector-curvature="0"
                                d="M 0,0 -25.12953,12.56476"
-                               style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                               style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                id="path6961" />
                           </g>
                           <g
@@ -537,7 +545,7 @@
                                transform="matrix(1,0,0,-1,204.422,424.836)"
                                id="text6965">
                               <tspan
-                                 style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                 style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                  x="0 3.7899218 10.617778 18.204817 21.99474"
                                  y="0"
                                  sodipodi:role="line"
@@ -552,7 +560,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 0,12.39542"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path6973" />
                               </g>
                               <g
@@ -562,19 +570,19 @@
                                    transform="matrix(1,0,0,-1,206.317,394.554)"
                                    id="text6977">
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="0 6.8278561 12.896528 16.686449"
                                    y="0"
                                    sodipodi:role="line"
                                    id="tspan6979">acid</tspan>
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="38.125 44.193672 50.634182 57.096226 63.92408 67.714005 73.782677 80.982368"
                                    y="-30.282"
                                    sodipodi:role="line"
                                    id="tspan6981">covalent</tspan>
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="250.92799 260.6019 267.42975 271.21967 278.04752 285.63458 291.70325 297.77191"
                                    y="-105.645"
                                    sodipodi:role="line"
@@ -589,7 +597,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 143.62805,35.90701"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path6989" />
                                 </g>
                                 <g
@@ -601,7 +609,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 71.81403,35.90701"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path6995" />
                                 </g>
                                 <g
@@ -613,7 +621,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 0,35.90701"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7001" />
                                 </g>
                                 <g
@@ -625,7 +633,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 -71.81403,35.90701"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7007" />
                                 </g>
                                 <g
@@ -637,7 +645,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 -143.62805,35.90701"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7013" />
                                 </g>
                                 <g
@@ -647,13 +655,13 @@
                                    transform="matrix(1,0,0,-1,314.21,446.494)"
                                    id="text7017">
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="0 5.385047 12.593095 23.60425 31.564291 38.392147 42.182068 45.971989 82.956726 92.449509 99.277367 104.58685 124.12428 129.43376 135.50244 142.33029 148.39897 153.70845 157.49838 164.32623 171.91327 182.53825 187.47473 194.68279 202.64282 208.7115 226.20474 231.58978 238.41763 242.20757 249.0426 287.54803 292.85751 299.68539 307.27243 314.85947 318.64938 325.47723 330.78671"
                                    y="0"
                                    sodipodi:role="line"
                                    id="tspan7019">symbolicwordreaction_typessolvetabulate</tspan>
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="383.819 391.40604 396.71552 403.5434 407.33331 413.02899 420.61603 424.40594 431.2338 442.61795 448.68661 453.99612 460.06479"
                                    y="-53.705002"
                                    sodipodi:role="line"
@@ -668,7 +676,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 42.11086,21.05542"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7027" />
                                 </g>
                                 <g
@@ -680,7 +688,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 -42.11086,21.05542"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7033" />
                                 </g>
                                 <g
@@ -690,7 +698,7 @@
                                    transform="matrix(1,0,0,-1,671.817,461.29)"
                                    id="text7037">
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="0 7.2080474 14.795087 21.622942 28.836981 34.132122 37.93639 42.858532"
                                    y="0"
                                    sodipodi:role="line"
@@ -705,7 +713,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 0,12.39542"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7045" />
                                 </g>
                                 <g
@@ -715,7 +723,7 @@
                                    transform="matrix(1,0,0,-1,678.952,431.008)"
                                    id="text7049">
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="0"
                                    y="0"
                                    sodipodi:role="line"
@@ -730,7 +738,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 0,12.39542"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7057" />
                                 </g>
                                 <g
@@ -740,13 +748,13 @@
                                    transform="matrix(1,0,0,-1,651.067,400.726)"
                                    id="text7061">
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="0"
                                    y="0"
                                    sodipodi:role="line"
                                    id="tspan7063">sigfigs_number</tspan>
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="103.521 109.58968 116.41753 120.20745 126.27612 133.86316 137.65308 144.48094 149.79042"
                                    y="-60.563999"
                                    sodipodi:role="line"
@@ -761,7 +769,7 @@
                                 <path
                                    inkscape:connector-curvature="0"
                                    d="M 0,0 0,12.39542"
-                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+                                   style="fill:none;stroke:#000000;stroke-width:0.39998001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
                                    id="path7071" />
                                 </g>
                                 <g
@@ -771,7 +779,7 @@
                                    transform="matrix(1,0,0,-1,765.928,431.008)"
                                    id="text7075">
                                 <tspan
-                                   style="font-size:14.34619999px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                                   style="font-variant:normal;font-weight:normal;font-size:14.34619999px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                                    x="0 7.5870395 15.174079 18.964001 24.273489"
                                    y="0"
                                    sodipodi:role="line"
@@ -819,7 +827,7 @@
                        x="82.26384"
                        y="-548.72253">
                       <tspan
-                         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                          sodipodi:role="line"
                          id="tspan6931-3"
                          x="82.26384"
@@ -847,7 +855,7 @@
                        x="69.072479"
                        y="-548.72253">
                       <tspan
-                         style="font-size:24px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                         style="font-variant:normal;font-weight:normal;font-size:24px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                          sodipodi:role="line"
                          id="tspan6931-3-4"
                          x="69.072479"
@@ -878,13 +886,13 @@
                        x="81.7892"
                        y="-548.72253">
                       <tspan
-                         style="font-size:20px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                          sodipodi:role="line"
                          id="tspan6931-3-4-3"
                          x="81.7892"
                          y="-548.72253">Command-line</tspan>
                       <tspan
-                         style="font-size:20px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                          sodipodi:role="line"
                          x="81.7892"
                          y="-523.72253"
@@ -912,13 +920,13 @@
                        x="81.7892"
                        y="-548.72253">
                       <tspan
-                         style="font-size:20px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                          sodipodi:role="line"
                          id="tspan6931-3-4-3-6"
                          x="81.7892"
                          y="-548.72253">     Web</tspan>
                       <tspan
-                         style="font-size:20px;font-variant:normal;font-weight:normal;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif"
+                         style="font-variant:normal;font-weight:normal;font-size:20px;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif';writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
                          sodipodi:role="line"
                          x="81.7892"
                          y="-523.72253"
@@ -953,7 +961,7 @@
                  id="text7577"
                  y="-698.75336"
                  x="149.29262"
-                 style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;line-height:125%;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
                  xml:space="preserve"><tspan
                    style="font-size:24px;text-align:center;text-anchor:middle"
                    y="-698.75336"
@@ -971,7 +979,7 @@
                  id="text7577-5"
                  y="-667.224"
                  x="272.54929"
-                 style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;line-height:125%;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
                  xml:space="preserve"><tspan
                    style="font-size:24px;text-align:center;text-anchor:middle"
                    id="tspan7581-1"
@@ -984,7 +992,7 @@
                  id="text7577-4"
                  y="-664.82489"
                  x="741.33179"
-                 style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;line-height:125%;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
                  xml:space="preserve"><tspan
                    style="font-size:24px;text-align:center;text-anchor:middle"
                    id="tspan7581-6"
@@ -995,17 +1003,17 @@
                  inkscape:connector-curvature="0"
                  id="path7622"
                  d="M 134.28952,664.84341 186.06744,561.32457"
-                 style="fill:none;stroke:#000000;stroke-width:0.76300204;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.57801209, 4.57801209;stroke-dashoffset:7.63002014" />
+                 style="fill:none;stroke:#000000;stroke-width:0.76300204;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.57801209, 4.57801209;stroke-dashoffset:7.63002014;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path7622-9"
                  d="M 261.48226,664.82491 209.70434,561.30607"
-                 style="fill:none;stroke:#000000;stroke-width:0.792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:6.33600006, 6.33600006;stroke-dashoffset:7.92000008" />
+                 style="fill:none;stroke:#000000;stroke-width:0.792;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:6.33600006, 6.33600006;stroke-dashoffset:7.92000008;stroke-opacity:1" />
               <path
                  inkscape:connector-curvature="0"
                  id="path8152"
                  d="m 740.89391,664.82491 0,-102.63362"
-                 style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:4.8, 4.8;stroke-dashoffset:8" />
+                 style="fill:none;stroke:#000000;stroke-width:0.80000001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:4.8, 4.8;stroke-dashoffset:8;stroke-opacity:1" />
             </g>
             <text
                transform="scale(1,-1)"
@@ -1013,7 +1021,7 @@
                id="text8423"
                y="-388.90137"
                x="112.86481"
-               style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+               style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;line-height:125%;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
                xml:space="preserve"><tspan
                  y="-388.90137"
                  x="112.86481"
@@ -1024,7 +1032,7 @@
                id="g8463">
               <text
                  xml:space="preserve"
-                 style="font-size:32px;font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:CMU Serif;-inkscape-font-specification:CMU Serif Medium"
+                 style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:32px;line-height:125%;font-family:'CMU Serif';-inkscape-font-specification:'CMU Serif Medium';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
                  x="426.26691"
                  y="-746.20477"
                  id="text8427"
@@ -1034,12 +1042,12 @@
                    x="426.26691"
                    y="-746.20477"
                    id="tspan8435"
-                   style="font-size:33.59999847px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:CMU Serif Italic">The Architecture of</tspan><tspan
+                   style="font-style:italic;font-size:33.59999847px;-inkscape-font-specification:'CMU Serif Italic';text-align:center;text-anchor:middle">The Architecture of</tspan><tspan
                    sodipodi:role="line"
                    x="426.26691"
                    y="-704.20477"
                    id="tspan8439"
-                   style="font-size:33.59999847px;font-style:italic;text-align:center;text-anchor:middle;-inkscape-font-specification:CMU Serif Italic">Chemlogic</tspan></text>
+                   style="font-style:italic;font-size:33.59999847px;-inkscape-font-specification:'CMU Serif Italic';text-align:center;text-anchor:middle">Chemlogic</tspan></text>
               <path
                  style="fill:none;stroke:#000000;stroke-width:0.80000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
                  d="m 286.85007,776.35688 289.09218,0"
