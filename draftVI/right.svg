@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="right.svg">
+   sodipodi:docname="right.svg"
+   inkscape:export-filename="/home/np/cwsfposter/draftVI/right.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4">
     <marker
@@ -1327,10 +1330,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.13933055"
-     inkscape:cx="182.74414"
-     inkscape:cy="2370.4155"
+     inkscape:cx="58.331313"
+     inkscape:cy="2356.0611"
      inkscape:document-units="in"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:window-width="1600"
      inkscape:window-height="850"
@@ -1338,7 +1341,7 @@
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      units="in"
-     showguides="false"
+     showguides="true"
      inkscape:guide-bbox="true">
     <inkscape:grid
        type="xygrid"
@@ -1602,7 +1605,7 @@
          x="1621.4766"
          y="-3424.2402"
          id="tspan3022"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle">Draft VI</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:144px;font-family:Monospace;-inkscape-font-specification:Monospace;text-align:center;text-anchor:middle">Draft VII</tspan><tspan
          sodipodi:role="line"
          x="1621.4766"
          y="-3244.2402"
